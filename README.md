@@ -3,7 +3,7 @@
 
 ## Introdução
 
-O programa é a resolução de um trabalho da matéria de Programação funcional do meu curso da faculdade.
+O programa é a resolução de um trabalho da matéria de Programação funcional do meu curso da faculdade.O curso em questão é "Bacharelado em Sistemas de Informação" que estou cursando(2021-2025) na Universidade Federal de Uberlândia (UFU) O arquivo "Descrição do Trabalho.pdf" contém as instruções passadas pelo professor para o desenvolvimento do trabalho.
 
 O objetivo de é criar um programa Haskell que recebe uma lista de códigos de barras de produros e gera um cupom fiscal com o nome do supermercado, a lista dos produtos comprados com nome e preço, e na última linha exibe a soma dos preços dos produtos. 
 
